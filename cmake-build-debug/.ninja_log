@@ -1,0 +1,26 @@
+# ninja log v5
+1	293	6750102682011487	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+6	731	6750103979059662	build.ninja	a1b2586ef137bbbc
+295	702	6750102686302947	C_CopyConstructor2.exe	278cb3964599968a
+1	147	6750106228589108	CMakeFiles/C_CopyConstructor2.dir/PracticeClass.cpp.obj	44b6080a938a73f8
+7	151	6750106228625778	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+151	395	6750106230963966	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+2	141	6750111030004590	CMakeFiles/C_CopyConstructor2.dir/PracticeClass.cpp.obj	44b6080a938a73f8
+143	533	6750111033841981	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+1	363	6750113070099304	CMakeFiles/C_CopyConstructor2.dir/PracticeClass.cpp.obj	44b6080a938a73f8
+365	862	6750113075109610	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+0	713	6750113551706162	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+718	968	6750113554266780	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+23	1493	6750114966258601	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+13	1498	6750114966327304	CMakeFiles/C_CopyConstructor2.dir/PracticeClass.cpp.obj	44b6080a938a73f8
+1499	1918	6750114970405947	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+9	850	6750116770129740	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+851	1081	6750116772395972	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+8	958	6750116894592493	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+960	1280	6750116897655675	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+8	512	6750117107862083	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+513	830	6750117110826919	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+8	902	6750117248698306	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+903	1191	6750117251626011	C_CopyConstructor2.exe	d8175cf8dd2dadd7
+8	950	6750117574475625	CMakeFiles/C_CopyConstructor2.dir/main.cpp.obj	fd847469fadc44dd
+951	1196	6750117576889169	C_CopyConstructor2.exe	d8175cf8dd2dadd7
